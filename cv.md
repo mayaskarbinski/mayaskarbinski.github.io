@@ -1,7 +1,7 @@
 ---
 title: "My CV"
 layout: page
-aside: true
+aside: false
 ---
 
 ### My CV
