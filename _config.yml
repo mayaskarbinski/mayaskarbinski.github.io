@@ -99,7 +99,7 @@ description: "" # Site description and default description, also used in jekyll-
 url: "https://mayaskarbinski.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/mayaskarbinski/mayaskarbinski.github.io"
-email: "me@daviddarnes.com"
+#email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -127,6 +127,8 @@ navigation_header:
   url: /research/
 - title: CV
   url: /cv/
+- title: About me
+  url: /aboutme/
 
 # navigation_footer:
 # - title: Created by David Darnes
