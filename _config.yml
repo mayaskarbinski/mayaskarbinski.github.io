@@ -127,8 +127,8 @@ navigation_header:
   url: /research/
 - title: CV
   url: /cv/
-- title: About me
-  url: /aboutme/
+#- title: About me
+#  url: /aboutme/
 
 # navigation_footer:
 # - title: Created by David Darnes
