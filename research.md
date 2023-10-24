@@ -1,1 +1,4 @@
-Past research
+---
+title: "Past research"
+layout: page
+---
