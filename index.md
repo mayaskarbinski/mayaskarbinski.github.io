@@ -4,4 +4,6 @@ My name is Maya Skarbinski, and I’m a first-year graduate student in the Depar
 
 Email: mskarbi1[at]jhu.edu
 
-Work address: 3400 N. Charles St., Baltimore, MD 21218
+Work address: 
+3400 N. Charles St.
+Baltimore, MD 21218
