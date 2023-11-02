@@ -1,6 +1,6 @@
 ---
 title: "Research"
-<!--layout: page-->
+layout: page
 ---
 ## Using Recently Quenched High-redshift Galaxies to Study Galaxy Evolution
 Currently, I am studying how high-redshift galaxies “quench,” or stop star formation with advisors Dr. Kate Rowlands, Dr. Katey Alatalo, and Professor Tim Heckman.
