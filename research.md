@@ -3,7 +3,7 @@ title: "Research"
 layout: page
 ---
 ## Using Recently Quenched High-redshift Galaxies to Study Galaxy Evolution
-Currently, I am studying how high-redshift galaxies “quench,” or stop star formation with advisors Dr. Kate Rowlands, Dr. Katey Alatalo, and Professor Tim Heckman.
+Currently, I am studying how high-redshift galaxies “quench,” or stop star formation, with advisors Dr. Kate Rowlands, Dr. Katey Alatalo, and Professor Tim Heckman.
 
 ## A JWST Library of Galaxy Spectral Energy Distributions
 I wrote my senior thesis with Professor Daniel Eisenstein and Dr. Ben Johnson using data from the James Webb Space Telescope (JWST). I constructed a carefully curated library of spectral energy distributions (SEDs), which will be needed for photometric redshift templates and other SED references.
